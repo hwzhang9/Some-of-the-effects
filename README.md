@@ -4,12 +4,8 @@ is
 ==
 MY
 ===
-first
+code
 ===
-io
 .
 ===
 
-###Oh
-##no
-#!
