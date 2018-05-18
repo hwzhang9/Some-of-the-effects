@@ -1,6 +1,6 @@
 particles.js
 ===
-##This is from http://codepen.io
+This is from http://codepen.io
 
 How to use? : Check the GitHub README
 =
