@@ -6,4 +6,4 @@ How to use? : Check the GitHub README
 =
 
 To load a config file (particles.json) you need to host this demo (MAMP/WAMP/local)... 
-## 项目欣赏 链接：https://lirenchou.github.io/Some-of-the-effects/
+## 项目欣赏
